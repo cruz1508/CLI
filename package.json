@@ -1,5 +1,5 @@
 {
-  "name": "@yourname/calculator",
+  "name": "carlos calculator",
   "version": "1.0.0",
   "description": "A simple command-line calculator that performs basic arithmetic operations.",
   "main": "calculator.js",
@@ -27,14 +27,16 @@
   "engines": {
     "node": ">=12.0.0"
   },
-  "author": "Your Name",
+  "author": "carlos",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/calculator.git"
+    "url": "https://github.com/cruz1508/CLI"
   },
   "license": "MIT",
   "devDependencies": {
     "@eslint/js": "^9.19.0",
+    "calculator": "^0.1.12",
+    "carlos": "^0.4.4",
     "eslint": "^9.19.0",
     "globals": "^15.14.0",
     "vitest": "^3.0.5"
